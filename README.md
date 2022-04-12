@@ -1,2 +1,2 @@
-# Cloud-Comouting
+# Cloud-Computing
 Tugas,Hadiah,Latihan
